@@ -12,6 +12,7 @@ let port = process.env.PORT || 3000;
 
 app.get('/', (request, response) => {
     const res = lib.getResponse(request.url);
+    response.setHeader('Access-Control-Allow-Origin', '*');
     response.setHeader('Content-Type', 'application/json');
     response.end(JSON.stringify(res, null, 4));
 });
