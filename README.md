@@ -2,7 +2,7 @@
  JSON-Placeholder is a simple fake REST API for testing
 
   - Set some query strings
-  - get json objects
+  - Get json objects
   - Magic 🎉
 
 ### Todos
