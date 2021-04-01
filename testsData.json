@@ -1,0 +1,1075 @@
+[{
+  "testId": "20",
+  "testName": "lft",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "7",
+    "typeTestId": "20",
+    "typeName": "total bilirubin",
+    "typeUnit": "mg%",
+    "typeNormalValue": "0.0-1.0 mg%"
+  }, {
+    "typeId": "8",
+    "typeTestId": "20",
+    "typeName": "direct billirubin",
+    "typeUnit": "mg%",
+    "typeNormalValue": "0.0-0.2 mg%"
+  }, {
+    "typeId": "9",
+    "typeTestId": "20",
+    "typeName": "indirect billirubin",
+    "typeUnit": "mg%",
+    "typeNormalValue": "0.2-0.8 mg%"
+  }, {
+    "typeId": "10",
+    "typeTestId": "20",
+    "typeName": "sgpt",
+    "typeUnit": "IU/L",
+    "typeNormalValue": "5-35 IU/L"
+  }, {
+    "typeId": "11",
+    "typeTestId": "20",
+    "typeName": "sgot",
+    "typeUnit": " IU/L",
+    "typeNormalValue": "(m) upto 40 IU/L"
+  }, {
+    "typeId": "12",
+    "typeTestId": "20",
+    "typeName": "alkline phosphatase",
+    "typeUnit": "IU/L",
+    "typeNormalValue": "adult upto 200 IU/L, children 245-700 IU/L"
+  }, {
+    "typeId": "13",
+    "typeTestId": "20",
+    "typeName": "total serum protienes",
+    "typeUnit": "gm%",
+    "typeNormalValue": "5.8-8.0 gm%"
+  }, {
+    "typeId": "14",
+    "typeTestId": "20",
+    "typeName": "serum albumin",
+    "typeUnit": "gm%",
+    "typeNormalValue": "3.5-5.5 gm%"
+  }, {
+    "typeId": "15",
+    "typeTestId": "20",
+    "typeName": "serum globlin",
+    "typeUnit": "gm%",
+    "typeNormalValue": "2-3.5 gm%"
+  }]
+}, {
+  "testId": "24",
+  "testName": "rft",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "17",
+    "typeTestId": "24",
+    "typeName": "urea",
+    "typeUnit": "mg/dl",
+    "typeNormalValue": "15-45 mg/dl"
+  }, {
+    "typeId": "18",
+    "typeTestId": "24",
+    "typeName": "creatinine",
+    "typeUnit": "mg/dl",
+    "typeNormalValue": "0.5-1.4 mg/dl"
+  }, {
+    "typeId": "19",
+    "typeTestId": "24",
+    "typeName": "uric acid",
+    "typeUnit": "mg/dl",
+    "typeNormalValue": "(m) 3.4-5.7, (f) 2.4-5.7 mg/dl"
+  }, {
+    "typeId": "20",
+    "typeTestId": "24",
+    "typeName": "s. calcium",
+    "typeUnit": "mg/dl",
+    "typeNormalValue": "8.5-11 mg/dl"
+  }, {
+    "typeId": "21",
+    "typeTestId": "24",
+    "typeName": "sodium (na)",
+    "typeUnit": "mmol/l",
+    "typeNormalValue": "135-155 mmol/l"
+  }, {
+    "typeId": "22",
+    "typeTestId": "24",
+    "typeName": "potassium (k)",
+    "typeUnit": "mmol/l",
+    "typeNormalValue": "3.5-5.0 mmol/l"
+  }]
+}, {
+  "testId": "25",
+  "testName": "lipid profile",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "23",
+    "typeTestId": "25",
+    "typeName": "serum cholestrol",
+    "typeUnit": "mg/dl",
+    "typeNormalValue": "upto 200 mg/dl"
+  }, {
+    "typeId": "24",
+    "typeTestId": "25",
+    "typeName": "serum triglyceride",
+    "typeUnit": "mg/dl",
+    "typeNormalValue": "(M)60-165 mg/dl<br>\n(F)45-145 mg/dl"
+  }, {
+    "typeId": "25",
+    "typeTestId": "25",
+    "typeName": "serum hdl",
+    "typeUnit": "mg/dl",
+    "typeNormalValue": "30-75 mg/dl"
+  }, {
+    "typeId": "26",
+    "typeTestId": "25",
+    "typeName": "ldl",
+    "typeUnit": "mg/dl",
+    "typeNormalValue": "upto 150 mg/dl"
+  }, {
+    "typeId": "27",
+    "typeTestId": "25",
+    "typeName": "vldl",
+    "typeUnit": "mg/dl",
+    "typeNormalValue": "0-30 mg/dl"
+  }, {
+    "typeId": "28",
+    "typeTestId": "25",
+    "typeName": "t. chol/hdl ratio.",
+    "typeUnit": "-",
+    "typeNormalValue": "-"
+  }]
+}, {
+  "testId": "26",
+  "testName": "widal test(slide method)",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": []
+}, {
+  "testId": "27",
+  "testName": "cbc",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "29",
+    "typeTestId": "27",
+    "typeName": "<strong>wbc</strong>",
+    "typeUnit": "<strong> x 10^3/uL</strong>",
+    "typeNormalValue": "<strong>4.00-11.0</strong>"
+  }, {
+    "typeId": "30",
+    "typeTestId": "27",
+    "typeName": "neu%",
+    "typeUnit": "%",
+    "typeNormalValue": "55.0-70.0"
+  }, {
+    "typeId": "31",
+    "typeTestId": "27",
+    "typeName": "lym%",
+    "typeUnit": "%",
+    "typeNormalValue": "35.0-45.0"
+  }, {
+    "typeId": "32",
+    "typeTestId": "27",
+    "typeName": "mon%",
+    "typeUnit": "%",
+    "typeNormalValue": "2.0-7.0"
+  }, {
+    "typeId": "33",
+    "typeTestId": "27",
+    "typeName": "eos%",
+    "typeUnit": "%",
+    "typeNormalValue": "1.0-5.0"
+  }, {
+    "typeId": "34",
+    "typeTestId": "27",
+    "typeName": "bas%",
+    "typeUnit": "%",
+    "typeNormalValue": "0.0-1.0"
+  }, {
+    "typeId": "35",
+    "typeTestId": "27",
+    "typeName": "neu#",
+    "typeUnit": " x 10^3/uL",
+    "typeNormalValue": "2.00-7.00"
+  }, {
+    "typeId": "36",
+    "typeTestId": "27",
+    "typeName": "lym#",
+    "typeUnit": " x 10^3/uL",
+    "typeNormalValue": "0.80-4.00"
+  }, {
+    "typeId": "37",
+    "typeTestId": "27",
+    "typeName": "mon#",
+    "typeUnit": " x 10^3/uL",
+    "typeNormalValue": "0.12-1.20"
+  }, {
+    "typeId": "38",
+    "typeTestId": "27",
+    "typeName": "eos#",
+    "typeUnit": " x 10^3/uL",
+    "typeNormalValue": "0.02-0.50"
+  }, {
+    "typeId": "39",
+    "typeTestId": "27",
+    "typeName": "bas#",
+    "typeUnit": " x 10^3/uL",
+    "typeNormalValue": "0.00-0.10"
+  }, {
+    "typeId": "40",
+    "typeTestId": "27",
+    "typeName": "<strong>rbc</strong>",
+    "typeUnit": "<strong> x 10^6/uL</strong>",
+    "typeNormalValue": "<strong>3.50-5.50</strong>"
+  }, {
+    "typeId": "41",
+    "typeTestId": "27",
+    "typeName": "<strong>hgb</strong>",
+    "typeUnit": "<strong>g/dL</strong>",
+    "typeNormalValue": "<strong>11.5-15.5</strong>"
+  }, {
+    "typeId": "42",
+    "typeTestId": "27",
+    "typeName": "hct",
+    "typeUnit": "%",
+    "typeNormalValue": "37.0-54.0"
+  }, {
+    "typeId": "43",
+    "typeTestId": "27",
+    "typeName": "mcv",
+    "typeUnit": "fL",
+    "typeNormalValue": "80.0-100.0"
+  }, {
+    "typeId": "44",
+    "typeTestId": "27",
+    "typeName": "mch",
+    "typeUnit": "pg",
+    "typeNormalValue": "27.0-34.0"
+  }, {
+    "typeId": "45",
+    "typeTestId": "27",
+    "typeName": "mchc",
+    "typeUnit": "g/dL",
+    "typeNormalValue": "32.0-36.0"
+  }, {
+    "typeId": "46",
+    "typeTestId": "27",
+    "typeName": "rdw-cv",
+    "typeUnit": "%",
+    "typeNormalValue": "11.0-16.0"
+  }, {
+    "typeId": "47",
+    "typeTestId": "27",
+    "typeName": "rdw-sd",
+    "typeUnit": "fL",
+    "typeNormalValue": "35.0-56.0"
+  }, {
+    "typeId": "48",
+    "typeTestId": "27",
+    "typeName": "<strong>plt</strong>",
+    "typeUnit": "<strong>x 10^3/uL</strong>",
+    "typeNormalValue": "<strong>150-450</strong>"
+  }, {
+    "typeId": "49",
+    "typeTestId": "27",
+    "typeName": "mpv",
+    "typeUnit": "fL",
+    "typeNormalValue": "6.5-12.0"
+  }, {
+    "typeId": "50",
+    "typeTestId": "27",
+    "typeName": "pdw",
+    "typeUnit": " ",
+    "typeNormalValue": "9.0-17.0"
+  }, {
+    "typeId": "51",
+    "typeTestId": "27",
+    "typeName": "pct",
+    "typeUnit": "%",
+    "typeNormalValue": "0.108-0.282"
+  }, {
+    "typeId": "93",
+    "typeTestId": "27",
+    "typeName": "esr",
+    "typeUnit": "mm/hr ",
+    "typeNormalValue": "(m) 0-10 <br> (f) 0-20"
+  }]
+}, {
+  "testId": "28",
+  "testName": "blood sugar",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "52",
+    "typeTestId": "28",
+    "typeName": "blood sugar (fasting)",
+    "typeUnit": "mg/dl",
+    "typeNormalValue": "70-110 mg/dl"
+  }, {
+    "typeId": "53",
+    "typeTestId": "28",
+    "typeName": "blood sugar (post meal)",
+    "typeUnit": "mg/dl",
+    "typeNormalValue": "100-160 mg/dl"
+  }, {
+    "typeId": "54",
+    "typeTestId": "28",
+    "typeName": "blood sugar (random)",
+    "typeUnit": "mg/dl",
+    "typeNormalValue": "80-140 mg/dl"
+  }, {
+    "typeId": "75",
+    "typeTestId": "28",
+    "typeName": "bussing yeast",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }]
+}, {
+  "testId": "29",
+  "testName": "mp rapid",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "55",
+    "typeTestId": "29",
+    "typeName": "result : ",
+    "typeUnit": "  ",
+    "typeNormalValue": "   "
+  }]
+}, {
+  "testId": "32",
+  "testName": "hiv",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "56",
+    "typeTestId": "32",
+    "typeName": "result : ",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }]
+}, {
+  "testId": "33",
+  "testName": "hcv",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "57",
+    "typeTestId": "33",
+    "typeName": "result :",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }]
+}, {
+  "testId": "34",
+  "testName": "hbsag",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "58",
+    "typeTestId": "34",
+    "typeName": "result : ",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }]
+}, {
+  "testId": "35",
+  "testName": "ra factor",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "59",
+    "typeTestId": "35",
+    "typeName": "ra",
+    "typeUnit": "IU/L",
+    "typeNormalValue": "0-10 IU/L"
+  }]
+}, {
+  "testId": "36",
+  "testName": "clinical pathology",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "60",
+    "typeTestId": "36",
+    "typeName": "urine examination<br>physical examination",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "61",
+    "typeTestId": "36",
+    "typeName": "color",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "62",
+    "typeTestId": "36",
+    "typeName": "quantity",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "63",
+    "typeTestId": "36",
+    "typeName": "appearance",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "64",
+    "typeTestId": "36",
+    "typeName": "reaction (<small>p</small>h)",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "65",
+    "typeTestId": "36",
+    "typeName": "chemical examination",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "66",
+    "typeTestId": "36",
+    "typeName": "protein",
+    "typeUnit": " ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "67",
+    "typeTestId": "36",
+    "typeName": "sugar",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "68",
+    "typeTestId": "36",
+    "typeName": "microscopic examination",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "69",
+    "typeTestId": "36",
+    "typeName": "rbc",
+    "typeUnit": "/ hpf",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "70",
+    "typeTestId": "36",
+    "typeName": "pus (wbc) cells",
+    "typeUnit": " / hpf",
+    "typeNormalValue": " "
+  }, {
+    "typeId": "71",
+    "typeTestId": "36",
+    "typeName": "epithelial cells",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "72",
+    "typeTestId": "36",
+    "typeName": "casts ",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "73",
+    "typeTestId": "36",
+    "typeName": "crystals",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "74",
+    "typeTestId": "36",
+    "typeName": "becteria ",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "76",
+    "typeTestId": "36",
+    "typeName": "yeast cells",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }]
+}, {
+  "testId": "37",
+  "testName": "urine culture",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "77",
+    "typeTestId": "37",
+    "typeName": "azithromycine",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "78",
+    "typeTestId": "37",
+    "typeName": "ciprofioxacine",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "79",
+    "typeTestId": "37",
+    "typeName": "co-trimoxazole",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "80",
+    "typeTestId": "37",
+    "typeName": "cefuroxime",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "81",
+    "typeTestId": "37",
+    "typeName": "ofloxacine",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "82",
+    "typeTestId": "37",
+    "typeName": "imipenem",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "83",
+    "typeTestId": "37",
+    "typeName": "gentamicine",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "84",
+    "typeTestId": "37",
+    "typeName": "levofloxacine",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "85",
+    "typeTestId": "37",
+    "typeName": "gatifloxacine",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "86",
+    "typeTestId": "37",
+    "typeName": "methiciline",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "87",
+    "typeTestId": "37",
+    "typeName": "piperacilline tazobactum",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "88",
+    "typeTestId": "37",
+    "typeName": "aztreonam",
+    "typeUnit": " ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "89",
+    "typeTestId": "37",
+    "typeName": "norfloxacine",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "90",
+    "typeTestId": "37",
+    "typeName": "amikacine",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "91",
+    "typeTestId": "37",
+    "typeName": "norfloxacine",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }]
+}, {
+  "testId": "38",
+  "testName": "crp",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "92",
+    "typeTestId": "38",
+    "typeName": "crp",
+    "typeUnit": "mg/dl",
+    "typeNormalValue": "0.5-6.0"
+  }, {
+    "typeId": "159",
+    "typeTestId": "38",
+    "typeName": "result :",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }]
+}, {
+  "testId": "39",
+  "testName": "esr",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "94",
+    "typeTestId": "39",
+    "typeName": "esr",
+    "typeUnit": "mm/hr",
+    "typeNormalValue": "(m) 0-10 mm/hr <br> (f) 0-20 mm/hr"
+  }]
+}, {
+  "testId": "40",
+  "testName": "lipase",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "95",
+    "typeTestId": "40",
+    "typeName": "lipase",
+    "typeUnit": "U/L",
+    "typeNormalValue": "upto 190 u/l"
+  }]
+}, {
+  "testId": "41",
+  "testName": "s. amylase",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "96",
+    "typeTestId": "41",
+    "typeName": "s. amylase",
+    "typeUnit": "IU/L",
+    "typeNormalValue": "upto 90 iu/l"
+  }]
+}, {
+  "testId": "42",
+  "testName": "cpk mb",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "97",
+    "typeTestId": "42",
+    "typeName": "cpk mb",
+    "typeUnit": "U/L",
+    "typeNormalValue": "upto 25 u/l"
+  }]
+}, {
+  "testId": "43",
+  "testName": "troponin i",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "98",
+    "typeTestId": "43",
+    "typeName": "result : ",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }]
+}, {
+  "testId": "44",
+  "testName": "urine culture <br> culture and sensitivity reports",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "99",
+    "typeTestId": "44",
+    "typeName": "  ",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }]
+}, {
+  "testId": "45",
+  "testName": "pus culture",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "100",
+    "typeTestId": "45",
+    "typeName": "microbe isolated",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "101",
+    "typeTestId": "45",
+    "typeName": "methicillin",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "102",
+    "typeTestId": "45",
+    "typeName": "nitrofurantoin",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "103",
+    "typeTestId": "45",
+    "typeName": "vancomicin  ",
+    "typeUnit": "   ",
+    "typeNormalValue": "   "
+  }, {
+    "typeId": "104",
+    "typeTestId": "45",
+    "typeName": "ceftazidime",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "105",
+    "typeTestId": "45",
+    "typeName": "cefoperazone sulbactum",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "106",
+    "typeTestId": "45",
+    "typeName": "levofloxacin",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "107",
+    "typeTestId": "45",
+    "typeName": "netillin",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "108",
+    "typeTestId": "45",
+    "typeName": "chloramphenicol",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "109",
+    "typeTestId": "45",
+    "typeName": "co-trimoxazole",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "110",
+    "typeTestId": "45",
+    "typeName": "gatifloxacin",
+    "typeUnit": "   ",
+    "typeNormalValue": "   "
+  }, {
+    "typeId": "111",
+    "typeTestId": "45",
+    "typeName": "amikacin",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "112",
+    "typeTestId": "45",
+    "typeName": "norfloxacin",
+    "typeUnit": "  ",
+    "typeNormalValue": "   "
+  }, {
+    "typeId": "113",
+    "typeTestId": "45",
+    "typeName": "gentamicin",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "114",
+    "typeTestId": "45",
+    "typeName": "linezolid",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "115",
+    "typeTestId": "45",
+    "typeName": "piperacillin/tazobactam",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "116",
+    "typeTestId": "45",
+    "typeName": "sparfloxacin",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "117",
+    "typeTestId": "45",
+    "typeName": "aztreonam",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "118",
+    "typeTestId": "45",
+    "typeName": "teilcoplanin",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "119",
+    "typeTestId": "45",
+    "typeName": "ofloxacin",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "120",
+    "typeTestId": "45",
+    "typeName": "ampicillin",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }]
+}, {
+  "testId": "46",
+  "testName": "peripheral smear",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "121",
+    "typeTestId": "46",
+    "typeName": "wbc<small>s</small>",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "122",
+    "typeTestId": "46",
+    "typeName": "rbc<small>s</small>",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "123",
+    "typeTestId": "46",
+    "typeName": "platelet count",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }]
+}, {
+  "testId": "47",
+  "testName": "clinical pathology",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "124",
+    "typeTestId": "47",
+    "typeName": "stool examination <br> physical examination",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "125",
+    "typeTestId": "47",
+    "typeName": "colour",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "126",
+    "typeTestId": "47",
+    "typeName": "consistency",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "127",
+    "typeTestId": "47",
+    "typeName": "mucus",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "128",
+    "typeTestId": "47",
+    "typeName": "clinical examination",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "129",
+    "typeTestId": "47",
+    "typeName": "reaction",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "130",
+    "typeTestId": "47",
+    "typeName": "microscopy examination",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "131",
+    "typeTestId": "47",
+    "typeName": "pus cells",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "132",
+    "typeTestId": "47",
+    "typeName": "epithelial cells",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "133",
+    "typeTestId": "47",
+    "typeName": "ova/larvae",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "134",
+    "typeTestId": "47",
+    "typeName": "cysts",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }]
+}, {
+  "testId": "48",
+  "testName": "blood group",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "135",
+    "typeTestId": "48",
+    "typeName": "blood group ",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }, {
+    "typeId": "136",
+    "typeTestId": "48",
+    "typeName": "rh factor",
+    "typeUnit": "  ",
+    "typeNormalValue": "  "
+  }]
+}, {
+  "testId": "49",
+  "testName": "glycosylated hb(hba1c)",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "137",
+    "typeTestId": "49",
+    "typeName": "glycosylated hb(hba1c)",
+    "typeUnit": "%",
+    "typeNormalValue": "  "
+  }]
+}, {
+  "testId": "50",
+  "testName": "cbc 2",
+  "testHeading": "",
+  "testStatus": "1",
+  "types": [{
+    "typeId": "138",
+    "typeTestId": "50",
+    "typeName": "wbc",
+    "typeUnit": "10^9/L",
+    "typeNormalValue": "4000-10000 \t10^9/L"
+  }, {
+    "typeId": "139",
+    "typeTestId": "50",
+    "typeName": "lymph#",
+    "typeUnit": "10^9/L",
+    "typeNormalValue": "0.6-4.1 10^9/l"
+  }, {
+    "typeId": "140",
+    "typeTestId": "50",
+    "typeName": "mid#",
+    "typeUnit": "10^9/L",
+    "typeNormalValue": "0.1-1.8 10^9/l"
+  }, {
+    "typeId": "141",
+    "typeTestId": "50",
+    "typeName": "gran#",
+    "typeUnit": "10^9/L",
+    "typeNormalValue": "2.0-7.8 10^9/l"
+  }, {
+    "typeId": "142",
+    "typeTestId": "50",
+    "typeName": "lymph%",
+    "typeUnit": "%",
+    "typeNormalValue": "20-40 %"
+  }, {
+    "typeId": "143",
+    "typeTestId": "50",
+    "typeName": "mid%",
+    "typeUnit": "%",
+    "typeNormalValue": "1.0-15.0 %"
+  }, {
+    "typeId": "144",
+    "typeTestId": "50",
+    "typeName": "gran%",
+    "typeUnit": "%",
+    "typeNormalValue": "50-70 %"
+  }, {
+    "typeId": "145",
+    "typeTestId": "50",
+    "typeName": "rbc",
+    "typeUnit": "10^12/L",
+    "typeNormalValue": "4.00-5.50 10^12/l"
+  }, {
+    "typeId": "146",
+    "typeTestId": "50",
+    "typeName": "hgb",
+    "typeUnit": "g/dL",
+    "typeNormalValue": "11.0-16.0 g/dl <br>\n(M)12.5-15.5<br>\n(F)11.5-13.5<br>\n(New born) 16.0-20.0"
+  }, {
+    "typeId": "147",
+    "typeTestId": "50",
+    "typeName": "hct",
+    "typeUnit": "%",
+    "typeNormalValue": "36.0-48.0 %"
+  }, {
+    "typeId": "148",
+    "typeTestId": "50",
+    "typeName": "mcv",
+    "typeUnit": "um^3",
+    "typeNormalValue": "80.0-99.0 um^3"
+  }, {
+    "typeId": "149",
+    "typeTestId": "50",
+    "typeName": "mch",
+    "typeUnit": "pg",
+    "typeNormalValue": "26.0-32.0 pg"
+  }, {
+    "typeId": "150",
+    "typeTestId": "50",
+    "typeName": "mchc",
+    "typeUnit": "g/dL",
+    "typeNormalValue": "32.0-36.0 g/dl"
+  }, {
+    "typeId": "151",
+    "typeTestId": "50",
+    "typeName": "rdw-cv",
+    "typeUnit": "%",
+    "typeNormalValue": "11.5-14.5 %"
+  }, {
+    "typeId": "152",
+    "typeTestId": "50",
+    "typeName": "rdw-sd",
+    "typeUnit": "fL",
+    "typeNormalValue": "37.0-54.0 fl"
+  }, {
+    "typeId": "153",
+    "typeTestId": "50",
+    "typeName": "plt",
+    "typeUnit": "10^g/L",
+    "typeNormalValue": "150-400 10^g/l"
+  }, {
+    "typeId": "154",
+    "typeTestId": "50",
+    "typeName": "mpv",
+    "typeUnit": "fL",
+    "typeNormalValue": "7.4-10.4 fl"
+  }, {
+    "typeId": "155",
+    "typeTestId": "50",
+    "typeName": "pdw",
+    "typeUnit": "  ",
+    "typeNormalValue": "10.0-17.0"
+  }, {
+    "typeId": "156",
+    "typeTestId": "50",
+    "typeName": "pct",
+    "typeUnit": "%",
+    "typeNormalValue": "0.100-0.280 %"
+  }, {
+    "typeId": "157",
+    "typeTestId": "50",
+    "typeName": "p-lcc",
+    "typeUnit": "10^g/L",
+    "typeNormalValue": "   "
+  }, {
+    "typeId": "158",
+    "typeTestId": "50",
+    "typeName": "p-lcr",
+    "typeUnit": "%",
+    "typeNormalValue": "13.0-43.0 %"
+  }, {
+    "typeId": "160",
+    "typeTestId": "50",
+    "typeName": "esr",
+    "typeUnit": "mm/hr",
+    "typeNormalValue": "(m) 0-10 mm/hr <br> (f) 0-20 mm/hr"
+  }]
+}]
